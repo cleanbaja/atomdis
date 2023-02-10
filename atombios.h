@@ -7289,7 +7289,7 @@ typedef struct _INTERRUPT_SERVICE_PARAMETERS_V2
   UCHAR  ucServiceId;
   UCHAR  ucStatus;
   UCHAR  ucReserved;
-}INTERRUPT_SERVICE_PARAMETER_V2;
+}INTERRUPT_SERVICE_PARAMETERS_V2;
 
 // ucInterruptId
 #define HDP1_INTERRUPT_ID                 1
